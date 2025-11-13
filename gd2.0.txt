@@ -15,7 +15,7 @@ Settings :
         -achievements are hidden by default
         -show log
 		-custom stylesheet : https://raw.githubusercontent.com/senyaiv/gamedevclickerredux/refs/heads/main/KKFQb88x.txt
-		-background : https://imgur.com/gallery/going-walk-pumpkin-patch-oh-has-ball-pit-S52YSO3
+		-background : black
         -text color : #00FF00
         -fonts : Kavoon
         -boxes : main (resources, clickables); stats (achievements); store (upgrades, buildings)
@@ -11989,6 +11989,7 @@ Achievements:
 	-unlocks at 450 codeWriter, 64 studio
 	-named FASTEST MENNEST!!!!
 	-picture : http://i.imgur.com/JUqLcP2.png
+
 
 
 
