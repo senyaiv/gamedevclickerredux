@@ -1,0 +1,1 @@
+so this basically is an attempt to fix issues that suddenly happened to IdleGameDeveloper 2.0 by @benbernard to play the game : https://orteil.dashnet.org/experiments/idlegamemaker/?game=https://raw.githubusercontent.com/senyaiv/gamedevclickerredux/refs/heads/main/gd2.0.txt
