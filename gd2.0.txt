@@ -1,9 +1,9 @@
 Let's make a game!
         -this game is so ded
         -by i am ded
-        -created on ---
-        -last updated on ---
-        -version --
+        -created on 2014
+        -last updated on 2025
+        -version unktow
  
 Settings :
         -prices increase by 111%
@@ -14,7 +14,8 @@ Settings :
         -upgrades are hidden by default
         -achievements are hidden by default
         -show log
-		-background : #222222
+		-custom stylesheet : https://raw.githubusercontent.com/senyaiv/gamedevclickerredux/refs/heads/main/KKFQb88x.txt
+		-background : https://imgur.com/gallery/going-walk-pumpkin-patch-oh-has-ball-pit-S52YSO3
         -text color : #00FF00
         -fonts : Kavoon
         -boxes : main (resources, clickables); stats (achievements); store (upgrades, buildings)
@@ -11988,6 +11989,7 @@ Achievements:
 	-unlocks at 450 codeWriter, 64 studio
 	-named FASTEST MENNEST!!!!
 	-picture : http://i.imgur.com/JUqLcP2.png
+
 
 
 
