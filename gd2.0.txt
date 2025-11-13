@@ -14,7 +14,6 @@ Settings :
         -upgrades are hidden by default
         -achievements are hidden by default
         -show log
-		-custom stylesheet : https://raw.githubusercontent.com/senyaiv/gamedevclickerredux/refs/heads/main/KKFQb88x.txt
 		-background:#222222;
         -text color : #00FF00
         -fonts : Kavoon
@@ -11989,5 +11988,6 @@ Achievements:
 	-unlocks at 450 codeWriter, 64 studio
 	-named FASTEST MENNEST!!!!
 	-picture : http://i.imgur.com/JUqLcP2.png
+
 
 
