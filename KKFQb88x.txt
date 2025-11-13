@@ -1,0 +1,156 @@
+body
+{
+	background:#222222;
+	color:#222222;
+}
+#title
+{
+	position: fixed;
+	width: 20%;
+	left: 0%;
+}
+#clickables
+{
+	position: fixed;
+	width: 20%;
+	left: 0%;
+	top: 12%;
+	height: 81%;
+	overflow: auto;
+}
+#resources
+{
+	position: fixed;
+	height: 61%;
+	width: 31%;
+	left: 22%;
+	font-size: 16px;
+	background:#222222;
+	overflow: auto;
+ 
+}
+#upgrades
+{
+	background:#222222;
+	height: auto;
+	right: 40%;
+	top: 2%;}
+.upgrade
+	{margin: 1px;}
+.bought
+	{font-size: 0px;
+	margin: 2px;
+	padding: 0px;}
+.upgrade .upgradeType
+	{font-weight: bold;}
+.bought
+{
+	font-size: 0px;}
+#achievements
+	{position: fixed;
+	height: 30%;
+	width: 31%;
+	background:#222222;
+	overflow: auto;
+	left: 22%;
+	top: 67%;}
+.achievement
+	{font-size: 0px;
+	margin: 2px;
+	padding: 0px;
+	font-size: 0px;}
+#buildings
+{
+	position: fixed;
+	top: 3%;
+	right: 22.5%;
+	height: 95%;
+	width: 21%;
+	font-size: 12px;
+	background:#222222;
+	overflow-x: none;
+	overflow-y: auto;}
+#building-codewriter .buildingType, #building-object .buildingType, #building-enemy .buildingType, #building-player .buildingType, #building-level .buildingType, .objective .buildingType, .finalobjective .buildingType, .win .buildingType, #building-game .buildingType, #building-gameproducer .buildingType, #building-fanbase .buildingType, #building-forum .buildingType, #building-advertise .buildingType, #building-studio .buildingType, #building-highreviewer .buildingType, #building-magic .buildingType, #building-gameseries .buildingType, #building-magiccore .buildingType, #building-popularyoutuber .buildingType, #building-finality .buildingType, #building-magicpointbuilding .buildingType, #building-bonus .buildingType, #building-thebread .buildingType, #building-stone1 .buildingType, #building-stone2 .buildingType, #building-stone3 .buildingType, #building-research .buildingType, #building-research2 .buildingType, #building-research3 .buildingType, #building-research4 .buildingType
+	{font-size: 18px;
+	font-weight: bold;}
+#building-maganiumgenerator .buildingType, #building-magicpointbuilding .buildingType
+        {font-size: 16px;
+        font-weight: bold;
+        padding-top: 2px;}
+#building-reflol .amount, .objective .amount, .finalobjective .amount, .win .amount
+	{font-size: 0px;}
+#building-codewriter .cost, #building-object .cost, #building-enemy .cost, #building-player .cost, #building-level .cost, .objective .cost, .win .cost, .finalobjective .cost, #building-game .cost, #building-gameproducer .cost, #building-fanbase .cost, #building-forum .cost, #building-advertise .cost, #building-highreviewer .cost, #building-studio .cost, #building-magic .cost, #building-magiccore .cost, #building-gameseries .cost, #building-maganiumgenerator .cost, #building-magicpointbuilding .cost, #building-popularyoutuber .cost, #building-finality .cost, #building-bonus .cost, #building-thebread .cost, #building-stone1 .cost, #building-stone2 .cost, #building-stone3 .cost, #building-research .cost, #building-research2 .cost, #building-research3 .cost, #building-research4 .cost
+        {font-size: 0px;}
+#building-codewriter .cost .amount, #building-object .cost .amount, #building-enemy .cost .amount, #building-player .cost .amount, #building-level .cost .amount, .objective .cost .amount, .finalobjective .cost .amount, .win .cost .amount, #building-game .cost .amount, #building-gameproducer .cost .amount, #building-fanbase .cost .amount, #building-forum .cost .amount, #building-advertise .cost .amount, #building-highreviewer .cost .amount, #building-studio .cost .amount, #building-magic .cost .amount, #building-magiccore .cost .amount, #building-gameseries .cost .amount, #building-magicpointbuilding .cost .amount, #building-maganiumgenerator .cost .amount, #building-popularyoutuber .cost .amount, #building-finality .cost .amount, #building-bonus .cost .amount, #building-thebread .cost .amount, #building-stone1 .cost .amount, #building-stone2 .cost .amount, #building-stone3 .cost .amount
+        {position: static;
+        float: left;
+        font-size: 12px;
+        font-weight: normal;}
+#building-codewriter .amount, #building-object .amount, #building-enemy .amount, #building-player .amount, #building-level .amount, #building-game .amount, #building-gameproducer .amount, #building-fanbase .amount, #building-forum .amount, #building-advertise .amount, #building-highreviewer .amount, #building-studio .amount, #building-magic .amount, #building-magiccore .amount, #building-gameseries .amount, #building-maganiumgenerator .amount, #building-popularyoutuber .amount, #building-finality .amount, #building-bonus .amount, #building-magicpointbuilding .amount, #building-thebread .amount, #building-stone1 .amount, #building-stone2 .amount, #building-stone3 .amount
+	{font-size: 14px;
+	font-weight: bold;}
+.building .cost .amount:after
+        {content: " lines of code";}
+#building-forum .costs-game2 .amount:after
+        {content: " games produced";}
+#building-advertise .costs-game2 .amount:after
+        {content: " games produced";}
+#building-studio .costs-game2 .amount:after
+        {content: " games produced";}
+#building-highreviewer .costs-game2 .amount:after
+        {content: " games produced";}
+#building-gameseries .costs-game2 .amount:after
+        {content: " games produced";}
+#building-popularyoutuber .costs-game2 .amount:after
+        {content: " games produced";}
+#building-bonus .costs-positivereview .amount:after
+        {content: " positive reviews";}
+#building-magic .costs-magicpoint .amount:after
+        {content: " magic points";}
+#building-maganiumgenerator .costs-magicpoint .amount:after
+        {content: " magic points";}
+#building-magiccore .costs-magicpoint .amount:after
+        {content: " magic points";}
+#building-lel .cost .amount:after, .objective .cost .amount:after, .finalobjective .cost .amount:after
+        {content: " progress"}
+#building-lell .cost .amount:after, .win .cost .amount:after
+        {content: " lines of code";}
+.sell
+        {position: absolute;
+        bottom: 5px;}
+.requirement
+        {bottom: 5px;}
+.costs::after{
+    content:"\000A"; 
+    white-space: pre;
+}
+#sell-thebread
+{
+	display: none;
+}
+#building-overtakecallofduty
+{
+	font-size: 17px;
+}
+#building-overtakesonic
+{
+	font-size: 18px;
+}
+#building-overtakegta
+{
+	font-size: 19px;
+}
+#building-overtakesanuc
+{
+	font-size: 20px;
+}
+#building-overtakemario
+{
+	font-size: 22px;
+ 
+}
+#log
+{
+	color:#004400;
+	background:#004400;
+}
