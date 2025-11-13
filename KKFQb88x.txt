@@ -1,7 +1,7 @@
 body
 {
-	background:#222222;
-	color:#222222;
+	background:black;
+	color:black;
 }
 #title
 {
@@ -154,3 +154,4 @@ body
 	color:#004400;
 	background:#004400;
 }
+
